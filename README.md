@@ -44,6 +44,11 @@
 
 <a href="https://github.com/mario-guillem/Recomendador">Recomendador</a>
 
+<a href="https://github.com/mario-guillem/StockAPP">App para predecir precios de cualquier acción</a>
+
+
+
+
 
 
 
